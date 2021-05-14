@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 
 # Hi there👋 Im nagito.
 
-![](https://img.shields.io/github/followers/nagito-hiroshima?label=Followers&style=social)
+![](https://img.shields.io/github/followers/nagito-hiroshima?label=Followers&style=social)  
 
-  
-  
+主に電子工作、HTML、GASなど幅広くプログラミング・制作しています。  
+
 I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and C ++.  
-主に電子工作、HTML、GASなど幅広くプログラミング・制作しています。
-
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nagito-hiroshima)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima)  
 
 ## works
 - [Comming soon...]()
