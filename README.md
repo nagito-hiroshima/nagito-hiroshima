@@ -25,7 +25,15 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima)  
 
 ## works
-- [Comming soon...]()
+- [2020年度第4QプロジェクトＮβ 伝統芸能[WEB制作]](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web "GitHub")  
+  - HTML/CSS/JS/SSH/GitHub (2020年12月-3月)  
+    <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/shibai.png" alt="芝居茶屋ロゴ" width="300" >
+    
+
+- [N高等学校通学コース広島キャンパス用自動チャイム放送WEBサイト](https://github.com/nagito-hiroshima/Web-chime "GitHub")
+  - HTML/CSS/JS (2020年7月)  
+    <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >
+
 
 ![](https://komarev.com/ghpvc/?username=nagito-hiroshima)
 
