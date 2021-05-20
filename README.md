@@ -29,6 +29,10 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
   - HTML/CSS/JS/SSH/GitHub (2020年12月-3月)  
     <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/shibai.png" alt="芝居茶屋ロゴ" width="300" >
     
+- [じゃんけんマシン(電子工作)](https://github.com/nagito-hiroshima/Janken "GitHub")
+  - Arduino (2020年10月-12月)  
+    <img src="https://user-images.githubusercontent.com/68215637/118756699-7449af00-b8a6-11eb-87ae-08c729aee21c.jpg" alt="サイトプレビュー" width="200" >
+
 
 - [N高等学校通学コース広島キャンパス用自動チャイム放送WEBサイト](https://github.com/nagito-hiroshima/Web-chime "GitHub")
   - HTML/CSS/JS (2020年7月)  
