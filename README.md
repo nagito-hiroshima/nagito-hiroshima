@@ -28,10 +28,11 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | --- | --- | --- |
+| [キャッシュレス決済「N Pay」システム](https://github.com/nagito-hiroshima/N-Pay-BackSystem "GitHub") | --- |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=N-Pay-BackSystem)](https://github.com/nagito-hiroshima/N-Pay-BackSystem) | 進行中 |
 |  [チャイムル装置[RaspberryPi出力制御]](https://github.com/nagito-hiroshima/RaspberryPi-GPIO "GitHub") | --- | [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=RaspberryPi-GPIO)](https://github.com/nagito-hiroshima/RaspberryPi-GPIO) | 5-6月 |
 | [チャイムル装置[電子工作]](https://github.com/nagito-hiroshima/chaimul "GitHub")| --- |[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=chaimul)](https://github.com/nagito-hiroshima/chaimul)| 5-6月 |
 |**２０２０年**||||
-|  [2020年度第4QプロジェクトＮβ 伝統芸能[WEB制作]](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web "GitHub")   |  <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/shibai.png" alt="芝居茶屋ロゴ" width="300" > |  非公開  | 12-3月|
+|  [2020年度第4QプロジェクトＮβ 伝統芸能[WEB制作]](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web "GitHub")   |  <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/shibai.png" alt="芝居茶屋ロゴ" width="300" > |  期間限定の公開につき非公開  | 12-3月|
 |[じゃんけんマシン(電子工作)](https://github.com/nagito-hiroshima/Janken "GitHub")|<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/main/image/janken.jpg" alt="サイトプレビュー" width="100"> |[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Janken)](https://github.com/nagito-hiroshima/Janken)|10-12月|
 |[N高等学校通学コース広島キャンパス用自動チャイム放送WEBサイト](https://github.com/nagito-hiroshima/Web-chime "GitHub")|<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >|[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime)|7月|
 
