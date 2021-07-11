@@ -47,6 +47,6 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 ![](https://komarev.com/ghpvc/?username=nagito-hiroshima)
 
 ## Other link その他公開中のサイト
-|  Name  |  Link  | Repository |
+|  名称  |  URL  | リポジトリ |
 | ---- | ---- | --- |
 | WEBチャイム |  [hiroshima-nnn.info](https://hiroshima-nnn.info)  | [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime) |
