@@ -41,7 +41,10 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 |[じゃんけんマシン(電子工作)](https://github.com/nagito-hiroshima/Janken "GitHub")|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/main/image/janken.jpg" alt="サイトプレビュー" width="100">](https://github.com/nagito-hiroshima/Janken) |[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Janken)](https://github.com/nagito-hiroshima/Janken)|10-12月|
 |[N高等学校通学コース広島キャンパス用自動チャイム放送WEBサイト](https://github.com/nagito-hiroshima/Web-chime "GitHub")|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >](https://github.com/nagito-hiroshima/Web-chime)|[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime)|7月|
 
-| [作品名](リポジトリURL)| <img src="サムネイル" alt="ALT文" height="100" > |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=リポジトリ名)](リポジトリURL) | 9月 |
+
+<!-- 作品追加用
+| [作品名](リポジトリURL)| [<img src="サムネイル" alt="ALT文" height="100" >](URL) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=リポジトリ名)](リポジトリURL) | -月 |
+-->
 
    
     
