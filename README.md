@@ -56,6 +56,8 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 ![](https://komarev.com/ghpvc/?username=nagito-hiroshima)
 
 ## Other link その他公開中のサイト
-|  名称  |  URL  | リポジトリ |
-| ---- | ---- | --- |
-| WEBチャイム |  [hiroshima-nnn.info](https://hiroshima-nnn.info)  | [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime) |
+|  サムネイル  |  URL  | リポジトリ |
+| :---: | :---: | :---: |
+| [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >](https://github.com/nagito-hiroshima/Web-chime) |  [WEBチャイム](https://hiroshima-nnn.info)  | [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime) |
+|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/nagito/pron7-9/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-10-11%2010.27.22.png?raw=true" alt="ALT文" height="100" >](https://github.com/N-S-Hiroshima/beta-hiroshima-A)  |  [リアル脱出ゲーム](https://n-s-hiroshima.github.io/beta-hiroshima-A/)  |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=N-S-Hiroshima&repo=beta-hiroshima-A)](https://github.com/N-S-Hiroshima/beta-hiroshima-A) |
+
