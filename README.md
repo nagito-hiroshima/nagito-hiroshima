@@ -43,6 +43,18 @@ highcontrast
 dracula
 
 ## works  作品
+### 一部限定公開のリポジトリがあります
+<details open> 
+<summary>2023年作品</summary>
+  
+| 企画名称 | イメージ | リポジトリ | 制作期間 |
+| --- | :---: | :---: | :---: |
+  
+ </details>
+  
+ <details> 
+<summary>2022年作品</summary>
+  
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | :---: | :---: | :---: |
 | [超スワれる参加認証ページ](https://github.com/nagito-hiroshima/super-suwareru)| [<img src="サムネイル" alt="画像準備中" height="100" >](URL) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=super-suwareru)](https://github.com/nagito-hiroshima/super-suwareru) | 12月 |
@@ -53,7 +65,13 @@ dracula
 | [NOWDJH用拡張機能](https://github.com/nagito-hiroshima/djh-chrome)| [<img src="https://lh3.googleusercontent.com/yijccxDFex5ODXOvVoG-zLu2FJP9kuy7HB4Cf2lQaVpf7sFNDPhIEhCPsDPNw-K4y0pSUTRYV0FSv4vSIjY6kpBkyg=w640-h400-e365-rj-sc0x00ffffff" alt="拡張機能" height="100" >](https://github.com/nagito-hiroshima/djh-chrome) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=djh-chrome)](https://github.com/nagito-hiroshima/djh-chrome) | 4月 |
 | [DJH再生中確認サイト（NOWDJH）](https://github.com/nagito-hiroshima/djh-now-play)| [<img src="https://user-images.githubusercontent.com/68215637/175846743-fb1a20c8-6fe2-4095-9eb3-e53edbd5347d.png" alt="サイトイメージ" height="100" >](https://github.com/nagito-hiroshima/djh-now-play) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=djh-now-play)](https://github.com/nagito-hiroshima/djh-now-play) | 4月 |
 | [運転手向けデジタルサイネージ](https://github.com/nagito-hiroshima/information)| [<img src="https://user-images.githubusercontent.com/68215637/175846478-0891149a-fce7-4209-9419-d38978051d8a.png" alt="天気予報情報表示イメージ" height="100" >](https://github.com/nagito-hiroshima/information) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=information)](https://github.com/nagito-hiroshima/information) | 1-2月 |
-|**２０２１年**||||
+  
+</details>
+ <details> 
+<summary>2021年作品</summary>
+  
+| 企画名称 | イメージ | リポジトリ | 制作期間 |
+| --- | :---: | :---: | :---: |
 | [クレヨンしんちゃんタイトルジェネレーター](https://github.com/nagito-hiroshima/crayon-shin)| [<img src="https://user-images.githubusercontent.com/68215637/149048586-3b2312c4-6d84-4944-901d-1f6102a58d1d.png" alt="クレヨンしんちゃんタイトルジェネレーターサイト" height="100" >](https://github.com/nagito-hiroshima/crayon-shin) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=crayon-shin)](https://github.com/nagito-hiroshima/crayon-shin) | 12月 |
 | [日付が変わると同時に流れが変わるサイト](https://github.com/nagito-hiroshima/nagare-uc)| [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/main/image/nagare.png?raw=true" alt="流れが変わるサイト" height="100" >](https://github.com/nagito-hiroshima/nagare-uc) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=nagare-uc)](https://github.com/nagito-hiroshima/nagare-uc) | 12月 |
 | [リアルタイムシャワー空室状況サイト](https://github.com/nagito-hiroshima/web-stack)| [<img src="https://user-images.githubusercontent.com/68215637/175844103-851aafc6-e05c-4964-8862-ab6c7d7af77d.png" alt="サイトイメージ" height="100" >](https://github.com/nagito-hiroshima/web-stack) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=web-stack)](https://github.com/nagito-hiroshima/web-stack) | 10月 |
@@ -66,11 +84,18 @@ dracula
 |  [チャイムル装置[RaspberryPi出力制御]](https://github.com/nagito-hiroshima/RaspberryPi-GPIO "GitHub") | [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/N-Pay%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%A4%89%E6%9B%B4%E8%BF%BD%E5%8A%A0/image/raspberryPi.png" alt="RaspberrPi" height="100" >](https://github.com/nagito-hiroshima/RaspberryPi-GPIO) | [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=RaspberryPi-GPIO)](https://github.com/nagito-hiroshima/RaspberryPi-GPIO) | 5-6月 |
 | [チャイムル装置[電子工作]](https://github.com/nagito-hiroshima/chaimul "GitHub")| [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/N-Pay%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%A4%89%E6%9B%B4%E8%BF%BD%E5%8A%A0/image/chaimul.jpg" alt="RaspberrPi" height="100" >](https://github.com/nagito-hiroshima/chaimul) |[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=chaimul)](https://github.com/nagito-hiroshima/chaimul)| 5-6月 |
 | 広島風景モザイクアート | <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/N-Pay%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%A4%89%E6%9B%B4%E8%BF%BD%E5%8A%A0/image/hiroshima-chokaigi2021.jpg" alt="2021超会議" width="300" >  |  | 4月 |
-|**２０２０年**||||
+
+</details>
+<details> 
+<summary>2020年作品</summary>
+  
+| 企画名称 | イメージ | リポジトリ | 制作期間 |
+| --- | :---: | :---: | :---: |
 |  [2020年度第4QプロジェクトＮβ 伝統芸能[WEB制作]](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web "GitHub")   |  [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/shibai.png" alt="芝居茶屋ロゴ" width="300" >](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web) |  期間限定の公開につき非公開  | 12-3月|
 |[じゃんけんマシン(電子工作)](https://github.com/nagito-hiroshima/Janken "GitHub")|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/main/image/janken.jpg" alt="サイトプレビュー" width="100">](https://github.com/nagito-hiroshima/Janken) |[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Janken)](https://github.com/nagito-hiroshima/Janken)|10-12月|
 |[N高等学校通学コース広島キャンパス用自動チャイム放送WEBサイト](https://github.com/nagito-hiroshima/Web-chime "GitHub")|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >](https://github.com/nagito-hiroshima/Web-chime)|[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime)|7月|
-
+  
+</details>
 
 <!-- 作品追加用
 | [作品名](リポジトリURL)| [<img src="サムネイル" alt="ALT文" height="100" >](URL) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=リポジトリ名)](リポジトリURL) | -月 |
