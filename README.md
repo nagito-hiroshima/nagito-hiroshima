@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and C ++.  
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nagito-hiroshima)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima&layout=compact)  
 
 ## works  作品
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
