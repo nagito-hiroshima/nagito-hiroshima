@@ -14,31 +14,25 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nagito-hiroshima&theme=dracula&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nagito-hiroshima&theme=dracula&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-dark
-radical
-merko
-gruvbox
-tokyonight
-onedark
-cobalt
-synthwave
-highcontrast
-dracula
-
 ## works  作品
 ### 一部限定公開のリポジトリがあります
 <details open> 
+<summary>2024年作品</summary>
+  
+| 企画名称 | イメージ | リポジトリ | 制作期間 |
+| --- | :---: | :---: | :---: |
+  
+ </details>
+ <details> 
 <summary>2023年作品</summary>
   
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | :---: | :---: | :---: |
   
  </details>
+
   
- <details> 
+<details> 
 <summary>2022年作品</summary>
   
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
