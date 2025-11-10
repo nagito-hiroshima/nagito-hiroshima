@@ -135,8 +135,10 @@
 
 | サムネイル | URL | リポジトリ |
 | :---: | :---: | :---: |
-| <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" width="300"> | [WEBチャイム](https://hiroshima-nnn.info) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime&theme=radical)](https://github.com/nagito-hiroshima/Web-chime) |
+| <img src="https://github.com/user-attachments/assets/bf7d672f-35d0-4e49-94f1-f56315712901" width="300"> | [WEBチャイム](https://hiroshima-nnn.info) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime&theme=radical)](https://github.com/nagito-hiroshima/Web-chime) |
 | <img src="https://user-images.githubusercontent.com/68215637/175846743-fb1a20c8-6fe2-4095-9eb3-e53edbd5347d.png" height="100"> | [NOWDJH（再生中確認サイト）](https://www.nagito.work/djh/) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=djh-chrome&theme=radical)](https://github.com/nagito-hiroshima/djh-chrome) |
+
+
 
 ---
 
