@@ -69,8 +69,7 @@
 
 ### 🧰 2023
 <details>
-<summary>作品一覧</summary>
-<summary>2023年作品</summary>
+<summary>作品一覧</summary> 
   
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | :---: | :---: | :---: |
