@@ -1,40 +1,84 @@
-# Hi there👋 Im nagito.
+# 👋 Hi there, I'm **nagito**  
 
-![](https://img.shields.io/github/followers/nagito-hiroshima?label=Followers&style=social)  
+[![Followers](https://img.shields.io/github/followers/nagito-hiroshima?label=Followers&style=social)](https://github.com/nagito-hiroshima)  
+[![Profile Views](https://komarev.com/ghpvc/?username=nagito-hiroshima&style=flat-square&color=blueviolet)](https://github.com/nagito-hiroshima)
 
-```
-主に電子工作、HTML、GASなど幅広くプログラミング・制作しています。  
-```
+---
 
-I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and C ++.  
+> 💡 **電子工作 × Web × 自動化**
+>
+> GAS / HTML / JavaScript / C# / C++ / Raspberry Pi  
+> 制作・設計・システム連携など幅広く活動しています。
 
+---
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima&layout=compact&show_icons=true&theme=dracula" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nagito-hiroshima&theme=dracula&show_icons=ture" />
+<p align="center">
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima&layout=compact&theme=radical&hide_border=true" />
+  <img alt="GitHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=nagito-hiroshima&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-## works  作品
-### 一部限定公開のリポジトリがあります
-<details open> 
-<summary>2024年作品</summary>
-  
-| 企画名称 | イメージ | リポジトリ | 制作期間 |
-| --- | :---: | :---: | :---: |
-  
- </details>
- <details> 
-<summary>2023年作品</summary>
-  
-| 企画名称 | イメージ | リポジトリ | 制作期間 |
-| --- | :---: | :---: | :---: |
-  
- </details>
+## 🧰 My Skills
 
+<p align="left">
+ <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <!-- Swift -->
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" alt="Swift" />
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" />
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
+
+  <!-- Raspberry Pi -->
+  <img src="https://img.shields.io/badge/Raspberry_Pi-EA3E32?logo=raspberry-pi&logoColor=white&style=for-the-badge" alt="Raspberry Pi" />
+  <!-- shell script -->
+  <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script" />
+
+  <!-- Google Apps Script -->
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?logo=google-apps-script&logoColor=white&style=for-the-badge" alt="Google Apps Script" />
+
+  <!-- Visual Studio Code -->
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
+  <!-- Visual Studio -->
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" alt="Visual Studio" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</p>
+
+
+---
+
+## 🎨 Works — 制作一覧
+> 一部は限定公開リポジトリです。
+
+### 🧩 2024
+<details open>
+<summary>作品一覧</summary>
+
+| 企画名称 | イメージ | リポジトリ | 制作期間 |
+| :--- | :---: | :---: | :---: |
+| （準備中） |  |  |  |
+
+</details>
+
+### 🧰 2023
+<details>
+<summary>作品一覧</summary> 
   
-<details> 
-<summary>2022年作品</summary>
-  
+| 企画名称 | イメージ | リポジトリ | 制作期間 |
+| --- | :---: | :---: | :---: |
+</details>
+
+### 🛠️ 2022
+<details>
+<summary>作品一覧</summary>
+
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | :---: | :---: | :---: |
 | [超スワれる参加認証ページ](https://github.com/nagito-hiroshima/super-suwareru)| [<img src="サムネイル" alt="画像準備中" height="100" >](URL) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=super-suwareru)](https://github.com/nagito-hiroshima/super-suwareru) | 12月 |
@@ -46,10 +90,14 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 | [DJH再生中確認サイト（NOWDJH）](https://github.com/nagito-hiroshima/djh-now-play)| [<img src="https://user-images.githubusercontent.com/68215637/175846743-fb1a20c8-6fe2-4095-9eb3-e53edbd5347d.png" alt="サイトイメージ" height="100" >](https://github.com/nagito-hiroshima/djh-now-play) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=djh-now-play)](https://github.com/nagito-hiroshima/djh-now-play) | 4月 |
 | [運転手向けデジタルサイネージ](https://github.com/nagito-hiroshima/information)| [<img src="https://user-images.githubusercontent.com/68215637/175846478-0891149a-fce7-4209-9419-d38978051d8a.png" alt="天気予報情報表示イメージ" height="100" >](https://github.com/nagito-hiroshima/information) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=information)](https://github.com/nagito-hiroshima/information) | 1-2月 |
   
+
 </details>
- <details> 
-<summary>2021年作品</summary>
-  
+
+### 🧠 2021
+<details>
+<summary>作品一覧</summary>
+
+
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | :---: | :---: | :---: |
 | [クレヨンしんちゃんタイトルジェネレーター](https://github.com/nagito-hiroshima/crayon-shin)| [<img src="https://user-images.githubusercontent.com/68215637/149048586-3b2312c4-6d84-4944-901d-1f6102a58d1d.png" alt="クレヨンしんちゃんタイトルジェネレーターサイト" height="100" >](https://github.com/nagito-hiroshima/crayon-shin) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=crayon-shin)](https://github.com/nagito-hiroshima/crayon-shin) | 12月 |
@@ -66,39 +114,35 @@ I'm work on a variety of things, Electronic work, HTML, Javascript, GAS, C # and
 | 広島風景モザイクアート | <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/N-Pay%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E5%A4%89%E6%9B%B4%E8%BF%BD%E5%8A%A0/image/hiroshima-chokaigi2021.jpg" alt="2021超会議" width="300" >  |  | 4月 |
 
 </details>
-<details> 
-<summary>2020年作品</summary>
-  
+
+### 🔩 2020
+<details>
+<summary>作品一覧</summary>
+
 | 企画名称 | イメージ | リポジトリ | 制作期間 |
 | --- | :---: | :---: | :---: |
 |  [2020年度第4QプロジェクトＮβ 伝統芸能[WEB制作]](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web "GitHub")   |  [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/shibai.png" alt="芝居茶屋ロゴ" width="300" >](https://github.com/nagito-hiroshima/SHIBAICHAYA-Web) |  期間限定の公開につき非公開  | 12-3月|
 |[じゃんけんマシン(電子工作)](https://github.com/nagito-hiroshima/Janken "GitHub")|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/main/image/janken.jpg" alt="サイトプレビュー" width="100">](https://github.com/nagito-hiroshima/Janken) |[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Janken)](https://github.com/nagito-hiroshima/Janken)|10-12月|
 |[N高等学校通学コース広島キャンパス用自動チャイム放送WEBサイト](https://github.com/nagito-hiroshima/Web-chime "GitHub")|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >](https://github.com/nagito-hiroshima/Web-chime)|[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime)|7月|
   
+
 </details>
 
-<!-- 作品追加用
-| [作品名](リポジトリURL)| [<img src="サムネイル" alt="ALT文" height="100" >](URL) |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=リポジトリ名)](リポジトリURL) | -月 |
--->
+---
 
-   
-    
-    
+## 🌐 Other Links — 公開中のサイト
 
-
-
-![](https://komarev.com/ghpvc/?username=nagito-hiroshima)
-
-## Other link その他公開中のサイト
-|  サムネイル  |  URL  | リポジトリ |
+| サムネイル | URL | リポジトリ |
 | :---: | :---: | :---: |
-| [<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/works/image/web-chime.PNG" alt="サイトプレビュー" width="300" >](https://github.com/nagito-hiroshima/Web-chime) |  [WEBチャイム](https://hiroshima-nnn.info)  | [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime)](https://github.com/nagito-hiroshima/Web-chime) |
-|[<img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/nagito/pron7-9/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-10-11%2010.27.22.png?raw=true" alt="サイトプレビュー" height="100" >](https://github.com/N-S-Hiroshima/beta-hiroshima-A)  |  [リアル脱出ゲーム](https://n-s-hiroshima.github.io/beta-hiroshima-A/)  |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=N-S-Hiroshima&repo=beta-hiroshima-A)](https://github.com/N-S-Hiroshima/beta-hiroshima-A) |
-|[<img src="https://user-images.githubusercontent.com/68215637/175846743-fb1a20c8-6fe2-4095-9eb3-e53edbd5347d.png" alt="サイトプレビュー" height="100" >](https://github.com/nagito-hiroshima/djh-chrome)  |  [DJH再生中確認サイト（NOWDJH）](https://www.nagito.work/djh/)  |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=N-S-Hiroshima&repo=djh-chrome)](https://github.com/nagito-hiroshima/djh-chrome) |
-
-<!--
-|[<img src="URL" alt="サイトプレビュー" height="100" >](URL)  |  [タイトル](URL)  |  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=N-S-Hiroshima&repo=リポジトリ名)](リポジトリURL) |
--->
+| <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/style-changes/image/moenaigomi.png?raw=true" height="100"> | [燃えないゴミ(作品一覧)](https://moenaigomi.com/) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=moenaigomi&theme=radical)](https://github.com/nagito-hiroshima/moenaigomi) |
+| <img src="https://github.com/user-attachments/assets/bf7d672f-35d0-4e49-94f1-f56315712901" width="300"> | [WEBチャイム](https://hiroshima-nnn.info) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime&theme=radical)](https://github.com/nagito-hiroshima/Web-chime) |
+| <img src="https://user-images.githubusercontent.com/68215637/175846743-fb1a20c8-6fe2-4095-9eb3-e53edbd5347d.png" height="100"> | [NOWDJH（再生中確認サイト）](https://www.nagito.work/djh/) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=djh-chrome&theme=radical)](https://github.com/nagito-hiroshima/djh-chrome) |
 
 
 
+
+---
+
+<p align="center">
+  <sub>🧭 Designed & maintained by <b>nagito</b> — <a href="https://github.com/nagito-hiroshima">GitHub Profile</a></sub>
+</p>
