@@ -132,7 +132,7 @@
 
 ## 🌐 Other Links — 公開中のサイト
 
-| サムネイル | URL | リポジトリ |
+| サムネイル | サイト | リポジトリ |
 | :---: | :---: | :---: |
 | <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/style-changes/image/moenaigomi.png?raw=true" height="100"> | [燃えないゴミ(作品一覧)](https://moenaigomi.com/) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=moenaigomi&theme=radical)](https://github.com/nagito-hiroshima/moenaigomi) |
 | <img src="https://github.com/user-attachments/assets/bf7d672f-35d0-4e49-94f1-f56315712901" width="300"> | [WEBチャイム](https://hiroshima-nnn.info) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nagito-hiroshima&repo=Web-chime&theme=radical)](https://github.com/nagito-hiroshima/Web-chime) |
