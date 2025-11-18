@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <!--php-->
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <!-- Swift -->
@@ -33,6 +36,8 @@
   <!-- C -->
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
 
+   <!-- Cloudflare -->
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare" /> 
   <!-- Raspberry Pi -->
   <img src="https://img.shields.io/badge/Raspberry_Pi-EA3E32?logo=raspberry-pi&logoColor=white&style=for-the-badge" alt="Raspberry Pi" />
   <!-- shell script -->
@@ -40,6 +45,12 @@
 
   <!-- Google Apps Script -->
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?logo=google-apps-script&logoColor=white&style=for-the-badge" alt="Google Apps Script" />
+  <!-- slack api-->
+  <img src="https://img.shields.io/badge/Slack_API-4A154B?logo=slack&logoColor=white&style=for-the-badge" alt="Slack API" />
+  <!-- LINE API-->
+  <img src="https://img.shields.io/badge/LINE_API-00C300?logo=line&logoColor=white&style=for-the-badge" alt="LINE API" />
+
+
 
   <!-- Visual Studio Code -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
