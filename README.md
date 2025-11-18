@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare" /> 
   <!-- Raspberry Pi -->
   <img src="https://img.shields.io/badge/Raspberry_Pi-EA3E32?logo=raspberry-pi&logoColor=white&style=for-the-badge" alt="Raspberry Pi" />
+  <!-- Arduino -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" />
   <!-- shell script -->
   <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script" />
 
@@ -56,6 +58,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
   <!-- Visual Studio -->
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" alt="Visual Studio" />
+  <!-- Arduino IDE -->
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino IDE" />
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <!-- GitHub -->
