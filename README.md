@@ -19,8 +19,9 @@
 ---
 
 <p align="center">
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagito-hiroshima&layout=compact&theme=radical&hide_border=true" />
-  <img alt="GitHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=nagito-hiroshima&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://github.com/nagito-hiroshima"><img src="https://img.shields.io/github/followers/nagito-hiroshima?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
+  <a href="https://github.com/nagito-hiroshima?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://www.nagito.work"><img src="https://img.shields.io/badge/Website-nagito.work-8A2BE2?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
