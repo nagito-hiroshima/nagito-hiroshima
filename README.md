@@ -12,9 +12,11 @@
 
 ## 📑 Contents
 
-- [🧰 My Skills](#-my-skills)
-- [🎨 Works — 制作一覧](#-works--制作一覧)
-- [🌐 Other Links — 公開中のサイト](#-other-links--公開中のサイト)
+<p align="center">
+  <a href="#-my-skills" title="My Skills"><img src="image/raspberryPi.png" alt="My Skills" width="150" /></a>
+  <a href="#-works--制作一覧" title="Works" style="margin:0 20px"><img src="image/suwareru-logo.png" alt="Works" width="150" /></a>
+  <a href="#-other-links--公開中のサイト" title="Other Links"><img src="image/moenaigomi.png" alt="Other Links" width="150" /></a>
+</p>
 
 ---
 
@@ -163,9 +165,10 @@
 
 ## 🌐 Other Links — 公開中のサイト
 
-| サムネイル | サイト | リポジトリ |
+| サムネイル | サイト | 種類 |
 | :---: | :---: | :---: |
 | <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/style-changes/image/moenaigomi.png?raw=true" height="100"> | [燃えないゴミ(作品一覧)](https://moenaigomi.com/) | [![Repo](https://img.shields.io/badge/Repository-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nagito-hiroshima/moenaigomi) |
+| <img src="./image/zen1.png" height="100"> | [大学祭をキャッシュレス化して注目を集めた（かった）話](https://zenn.dev/nagito/articles/cf86fe31d73018) | [Zenn](https://zenn.dev/nagito/articles/cf86fe31d73018) |
 
 ---
 
