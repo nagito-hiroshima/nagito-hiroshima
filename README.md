@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script" />
+
 </p>
 
 ### 🔌 Hardware
@@ -61,7 +62,7 @@
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Google_Colaboratory-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge" alt="Google Colab" /
+  <img src="https://img.shields.io/badge/Google_Colaboratory-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge" alt="Google Colab" />
   >
 </p>
 
