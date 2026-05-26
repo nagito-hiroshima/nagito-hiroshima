@@ -13,7 +13,7 @@
 ## 📑 Contents
 
 <p align="center">
-  <a href="#-my-skills" title="My Skills"><img src="image/card1.png" alt="My Skills" width="2000" /></a>
+  <a href="#-my-skills" title="My Skills"><img src="image/card1.png" alt="My Skills" width="200" /></a>
   <a href="#-works--制作一覧" title="Works" style="margin:0 20px"><img src="image/card2.png" alt="Works" width="200" /></a>
   <a href="#-other-links--公開中のサイト" title="Other Links"><img src="image/card3.png" alt="Other Links" width="200" /></a>
 </p>
