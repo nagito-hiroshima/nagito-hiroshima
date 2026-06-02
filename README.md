@@ -92,6 +92,7 @@
 | :---: | :---: | :---: |
 | <img src="https://github.com/nagito-hiroshima/nagito-hiroshima/blob/style-changes/image/moenaigomi.png?raw=true" height="100"> | [燃えないゴミ(作品一覧)](https://moenaigomi.com/) | [![Repo](https://img.shields.io/badge/Repository-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nagito-hiroshima/moenaigomi) |
 | <img src="./image/zen1.png" height="100"> | [大学祭をキャッシュレス化して注目を集めた（かった）話](https://zenn.dev/nagito/articles/cf86fe31d73018) | [Zenn](https://zenn.dev/nagito/articles/cf86fe31d73018) |
+| ![画像準備中](https://img.shields.io/badge/%E7%94%BB%E5%83%8F%E6%BA%96%E5%82%99%E4%B8%AD-lightgrey?style=flat-square) | [全角変換（zenkaku.jp)](https://zenkaku.jp/) | [![Repo](https://img.shields.io/badge/Repository-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/nagito-hiroshima/zenkaku.jp) |
 
 ---
 
