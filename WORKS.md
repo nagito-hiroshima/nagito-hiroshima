@@ -1,7 +1,7 @@
 # 🎨 Works — 制作一覧
 > 一部は限定公開リポジトリです。
 
-[← README に戻る](README.md)
+[← ホーム に戻る](README.md)
 
 ### 🌏　2026
 <details open>
