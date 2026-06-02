@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **nagito**
 [![Profile Views](https://komarev.com/ghpvc/?username=nagito-hiroshima&style=flat-square&color=blueviolet)](https://github.com/nagito-hiroshima)
 <!--MD.mdへのリンク-->
-[MD記法メモ](./MD.md)
+[MD記法メモ](./md.md)
 
 ---
 > [!TIP]

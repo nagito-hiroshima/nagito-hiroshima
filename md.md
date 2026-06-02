@@ -1,14 +1,14 @@
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> ノートやヒントなど、ユーザーにとって有益な情報を提供するためのセクションです。
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> ユーザーが特定のタスクを効率的に完了するためのヒントやコツを提供します。
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> ユーザーが成功するために必要な重要な情報です。
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> 潜在的なリスク due to potential risks.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> 行動の否定的潜在結果です。
